@@ -1,4 +1,3 @@
-import { log } from "console";
 const { v4: uuidv4 } = require("uuid");
 describe("payment", () => {
   it("user can make a payment", () => {
